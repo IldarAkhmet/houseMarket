@@ -1,0 +1,6 @@
+﻿  Entrance.cpp
+C:\Users\ahmet\source\repos\HouseMatketApp\App\AddHouse.h(196,27): warning C4101: e: неиспользованная локальная переменная
+  (компиляция исходного файла "Entrance.cpp")
+  
+  AddHouse.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  App.vcxproj -> C:\Users\ahmet\source\repos\HouseMatketApp\x64\Debug\App.exe

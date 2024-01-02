@@ -1,0 +1,6 @@
+C:\Users\ahmet\source\repos\HouseMatketApp\App\x64\Debug\App.vcxproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\HouseMatketApp\App\x64\Debug\App.Entrance.resources
+C:\Users\ahmet\source\repos\HouseMatketApp\App\x64\Debug\App.vcxproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\HouseMatketApp\App\x64\Debug\App.Registr.resources
+C:\Users\ahmet\source\repos\HouseMatketApp\App\x64\Debug\App.HouseMarket.resources
+C:\Users\ahmet\source\repos\HouseMatketApp\App\x64\Debug\App.AddHouse.resources
