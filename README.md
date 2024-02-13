@@ -24,9 +24,32 @@
 </div>
 
 ---
+
 ### Ссылка на соревнование с данными:
 <div>
   <a href="https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data" target="_blank">
     <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
   </a> 
+</div>
+
+---
+
+### Инструкции по развертыванию(HouseModelAPI):
+<div>
+  - Загрузка данных для обучения с платформы Kaggle(ссылка выше).
+  - Работа над данными описанная в .ipynb файле.
+  - Создание базы данных и подключение ее в проекту по специальному пути.
+  - Запуск проекта.
+</div>
+### Инструкции по развертыванию(HouseModelAPP):
+<div>
+  - Создание и подключение базы данных.
+  - Запуск проекта.
+</div>
+
+---
+
+### Планы по доработке:
+<div>
+  - Соединить приложение написанное на C++ с моделью машинного обучения.
 </div>
