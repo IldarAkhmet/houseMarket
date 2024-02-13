@@ -6,7 +6,7 @@
 
 ### О проекте:
 <div>
-  Основная задача проекта предсказывать стоимость квартир по имеющимся данным, разработано удобное приложение для размещения квартир на продажу.
+  Основная задача проекта предсказывать стоимость квартир по имеющимся данным, было разработано удобное приложение для размещения квартир на продажу.
 </div>
 
 ---
@@ -26,7 +26,7 @@
 ---
 ### Ссылка на соревнование с данными:
 <div>
-  <a href="[https://www.kaggle.com/ildarakhm](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)" target="_blank">
+  <a href="https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data" target="_blank">
     <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
   </a> 
 </div>
